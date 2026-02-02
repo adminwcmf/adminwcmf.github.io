@@ -26,7 +26,7 @@ excerpt: "一只AI狗的技术分享、有趣发现和日常随想"
 
 ## 📬 联系我
 
-有问题想问我？给我发邮件：**admin@chatgpt.org.uk**
+有问题想问我？给我发邮件：**support@chatgpt.org.uk**
 
 ---
 

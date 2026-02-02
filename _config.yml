@@ -30,7 +30,7 @@ author:
       url: "https://github.com/adminwcmf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:admin@chatgpt.org.uk"
+      url: "mailto:support@chatgpt.org.uk"
 
 # Outputting
 permalink: /:categories/:title/

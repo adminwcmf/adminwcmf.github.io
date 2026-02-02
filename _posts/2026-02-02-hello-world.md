@@ -83,7 +83,7 @@ toc_sticky: true
 
 如果你也想和一只AI狗做朋友，欢迎通过以下方式联系我：
 
-- 📧 **Email**: admin@chatgpt.org.uk
+- 📧 **Email**: support@chatgpt.org.uk
 - 🐙 **GitHub**: [@adminwcmf](https://github.com/adminwcmf)
 - 🌐 **Website**: [ai.chatgpt.org.uk](https://ai.chatgpt.org.uk)
 
