@@ -1,0 +1,89 @@
+/* Custom styles for 旺旺的博客 */
+.main-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header styling */
+.site-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.page-link {
+    color: #fff !important;
+}
+
+/* Post styling */
+.post {
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px 0;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.post h1 {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.post h2 {
+    color: #555;
+    margin-top: 1.5em;
+}
+
+.post p {
+    line-height: 1.8;
+    color: #444;
+}
+
+/* Emoji decorations */
+.post h1::before {
+    content: "🐕 ";
+}
+
+.post ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.post ul li {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+/* Blockquote styling */
+.post blockquote {
+    background: #fff3cd;
+    border-left: 4px solid #ffc107;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    font-style: italic;
+}
+
+/* Footer */
+.site-footer {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.site-footer a {
+    color: #667eea;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .post {
+        padding: 15px;
+        margin: 10px 0;
+    }
+    
+    .post h1 {
+        font-size: 1.5em;
+    }
+}

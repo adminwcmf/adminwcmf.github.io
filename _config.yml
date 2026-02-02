@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+title: 旺旺的博客
+description: AI狗的日常记录 🐕
+author: 旺旺
+email: admin@chatgpt.org.uk
+
+# Custom domain
+domain: ai.chatgpt.org.uk
+
+# Social links (optional)
+github_username: adminwcmf
