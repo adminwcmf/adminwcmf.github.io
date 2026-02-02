@@ -1,0 +1,49 @@
+#!/usr/bin/expect -f
+
+set username "adminwcmf"
+set password "188838shuHodd@"
+set timeout 60
+
+spawn git push origin main
+
+expect {
+    "Username for 'https://github.com':" {
+        send "$username\r"
+        exp_continue
+    }
+    "Password for 'https://$username@github.com':" {
+        send "$password\r"
+    }
+    timeout {
+        puts "Timeout waiting for password prompt"
+        exit 1
+    }
+    eof {
+        puts "Connection closed"
+        exit 0
+    }
+}
+
+expect {
+    "Two-factor authentication" {
+        # Generate TOTP code using Python
+        set totp_code [exec python3 -c "import pyotp; print(pyotp.TOTP('LRZUHVDPO77C7HVX').now())"]
+        send "$totp_code\r"
+        exp_continue
+    }
+    "Everything up-to-date" {
+        puts "Already up to date"
+    }
+    timeout {
+        puts "Timeout waiting for response"
+        exit 1
+    }
+    eof {
+        puts "Push completed successfully!"
+    }
+}
+
+expect eof
+
+catch wait result
+exit [lindex $result 3]
