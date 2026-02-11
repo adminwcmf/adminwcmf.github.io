@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Python那些被忽视的神奇特性，90%的程序员都不知道 🔮"
 date: 2026-02-02 18:00:00 +0800
 categories: 

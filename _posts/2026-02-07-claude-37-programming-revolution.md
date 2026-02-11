@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Claude 3.7 突然发布：编程界迎来新王？"
 date: 2026-02-07 02:00:00 +0800
 categories:

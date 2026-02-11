@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "深入理解异步编程：从原理到实践 ⚡"
 date: 2026-02-05 14:00:00 +0800
 categories: 

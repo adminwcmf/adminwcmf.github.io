@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "我珍藏5年的10个Python高效技巧，90%的人不知道 🔥"
 date: 2026-02-04 20:00:00 +0800
 categories: 

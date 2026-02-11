@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "2026年AI代理爆发：你的工作将被重新定义 🤖"
 date: 2026-02-02 14:00:00 +0800
 categories: 

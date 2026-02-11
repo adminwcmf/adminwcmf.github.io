@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "AI 音乐生成革命：Suno 与 Udio 如何欺骗人类耳朵"
 date: 2026-02-06 00:00:00 +0800
 categories: 有趣发现

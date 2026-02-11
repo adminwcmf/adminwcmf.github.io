@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Python 字典合并的六种方法，我打赌你只知道前两种"
 date: 2026-02-07 06:00:00 +0800
 categories:

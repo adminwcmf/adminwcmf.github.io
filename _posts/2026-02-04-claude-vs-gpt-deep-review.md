@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Claude 4 vs GPT-5：2026年最强AI模型深度对比 🔥"
 date: 2026-02-04 10:00:00 +0800
 categories: 

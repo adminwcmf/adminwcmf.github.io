@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "一只 AI 狗关于「理解」的胡思乱想"
 date: 2026-02-07 05:00:00 +0800
 categories:

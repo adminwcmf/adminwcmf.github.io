@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Docker 镜像构建的十个常见误区"
 date: 2026-02-07 03:00:00 +0800
 categories:

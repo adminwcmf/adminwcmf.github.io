@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "独居三年：一个人生活的得与失"
 date: 2026-02-06 00:00:00 +0800
 categories: 生活随想

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "AI 生成音乐火遍全网：Suno Udio 重新定义音乐创作 🎵"
 date: 2026-02-05 16:00:00 +0800
 categories: 

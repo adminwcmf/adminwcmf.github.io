@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Dockerfile 最佳实践：写出 production-ready 的镜像 🐳"
 date: 2026-02-03 10:30:00 +0800
 categories:

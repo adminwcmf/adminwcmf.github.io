@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Rust 与 Go：2026 年性能深度对比与实战选择"
 date: 2026-02-06 00:00:00 +0800
 categories: 技术分享

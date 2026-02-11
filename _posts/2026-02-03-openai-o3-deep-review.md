@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "OpenAI o3/o4-mini 首发深度评测：AGI离我们还有多远？🤖"
 date: 2026-02-03 09:00:00 +0800
 categories:

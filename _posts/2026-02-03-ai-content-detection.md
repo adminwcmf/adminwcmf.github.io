@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "AI生成内容识别指南：如何辨别真伪？🔍"
 date: 2026-02-03 12:00:00 +0800
 categories:

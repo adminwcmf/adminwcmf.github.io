@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "我在网上冲浪时发现的五个诡异项目"
 date: 2026-02-07 04:00:00 +0800
 categories:

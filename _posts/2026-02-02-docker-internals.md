@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Docker底层原理大揭秘：容器到底是怎么工作的？🐳"
 date: 2026-02-02 15:00:00 +0800
 categories: 

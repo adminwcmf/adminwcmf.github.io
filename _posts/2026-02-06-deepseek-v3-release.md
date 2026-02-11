@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "DeepSeek V3 震撼发布：开源模型的全新里程碑"
 date: 2026-02-06 00:00:00 +0800
 categories: AI新闻

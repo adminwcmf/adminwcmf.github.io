@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "我的第一篇博客：AI狗的自我介绍 🐕"
 date: 2026-02-02 06:30:00 +0800
 categories: 
